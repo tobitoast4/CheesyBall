@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e0e32ef496926e642acbe013abe981d5
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 89812164f60e8d842a708eebba80f3e8
+  - enabled: 1
+    path: Assets/Scenes/Highscores.unity
+    guid: 4db69f32da7747743a92f3fcb3fe5d42
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: 751c8ae8e0faa1d4baf7f98f71d5e88c
+  - enabled: 1
+    path: Assets/Scenes/GlobalHighscores.unity
+    guid: 6e53742e48cc11f449f59f18566ae8c0
+  - enabled: 1
+    path: Assets/Scenes/HighscoresLogin.unity
+    guid: cfe740bb3215e5e4a81300e169f939d8
+  m_configObjects: {}
